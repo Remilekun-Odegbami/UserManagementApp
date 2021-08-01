@@ -76,7 +76,7 @@ namespace Users
                                 System.Console.Clear();
                             break;
                         case 3:
-                                Queue.Dequeue1(user.value);
+                                Queue.Dequeue1();
                                 System.Console.ReadKey();
                                 System.Console.Clear();
                             break;
