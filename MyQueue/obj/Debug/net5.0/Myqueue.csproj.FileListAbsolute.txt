@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Week10\MyQueue\obj\Debug\net5.0\Myqueue.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Week10\MyQueue\obj\Debug\net5.0\Myqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Week10\MyQueue\obj\Debug\net5.0\Myqueue.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Week10\MyQueue\obj\Debug\net5.0\Myqueue.AssemblyInfo.cs
+C:\Users\user\Desktop\Week10\MyQueue\obj\Debug\net5.0\Myqueue.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Week10\MyQueue\bin\Debug\net5.0\Myqueue.deps.json
+C:\Users\user\Desktop\Week10\MyQueue\bin\Debug\net5.0\Myqueue.dll
+C:\Users\user\Desktop\Week10\MyQueue\bin\Debug\net5.0\ref\Myqueue.dll
+C:\Users\user\Desktop\Week10\MyQueue\bin\Debug\net5.0\Myqueue.pdb
+C:\Users\user\Desktop\Week10\MyQueue\obj\Debug\net5.0\Myqueue.dll
+C:\Users\user\Desktop\Week10\MyQueue\obj\Debug\net5.0\ref\Myqueue.dll
+C:\Users\user\Desktop\Week10\MyQueue\obj\Debug\net5.0\Myqueue.pdb

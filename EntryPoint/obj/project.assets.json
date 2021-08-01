@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Myqueue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Myqueue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Myqueue.dll": {}
+        }
+      },
+      "QueueLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/QueueLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QueueLogic.dll": {}
+        }
+      },
+      "UserFileManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/UserFileManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserFileManagement.dll": {}
+        }
+      },
+      "Users/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Users.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Users.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Myqueue/1.0.0": {
+      "type": "project",
+      "path": "../MyQueue/Myqueue.csproj",
+      "msbuildProject": "../MyQueue/Myqueue.csproj"
+    },
+    "QueueLogic/1.0.0": {
+      "type": "project",
+      "path": "../QueueLogic/QueueLogic.csproj",
+      "msbuildProject": "../QueueLogic/QueueLogic.csproj"
+    },
+    "UserFileManagement/1.0.0": {
+      "type": "project",
+      "path": "../UserFileManagement/UserFileManagement.csproj",
+      "msbuildProject": "../UserFileManagement/UserFileManagement.csproj"
+    },
+    "Users/1.0.0": {
+      "type": "project",
+      "path": "../Users/Users.csproj",
+      "msbuildProject": "../Users/Users.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Myqueue >= 1.0.0",
+      "QueueLogic >= 1.0.0",
+      "UserFileManagement >= 1.0.0",
+      "Users >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Week10\\EntryPoint\\EntryPoint.csproj",
+      "projectName": "EntryPoint",
+      "projectPath": "C:\\Users\\user\\Desktop\\Week10\\EntryPoint\\EntryPoint.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Week10\\EntryPoint\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\user\\Desktop\\Week10\\MyQueue\\Myqueue.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Week10\\MyQueue\\Myqueue.csproj"
+            },
+            "C:\\Users\\user\\Desktop\\Week10\\QueueLogic\\QueueLogic.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Week10\\QueueLogic\\QueueLogic.csproj"
+            },
+            "C:\\Users\\user\\Desktop\\Week10\\UserFileManagement\\UserFileManagement.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Week10\\UserFileManagement\\UserFileManagement.csproj"
+            },
+            "C:\\Users\\user\\Desktop\\Week10\\Users\\Users.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Week10\\Users\\Users.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

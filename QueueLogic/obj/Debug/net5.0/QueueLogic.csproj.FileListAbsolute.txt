@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Week10\QueueLogic\obj\Debug\net5.0\QueueLogic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Week10\QueueLogic\obj\Debug\net5.0\QueueLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Week10\QueueLogic\obj\Debug\net5.0\QueueLogic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Week10\QueueLogic\obj\Debug\net5.0\QueueLogic.AssemblyInfo.cs
+C:\Users\user\Desktop\Week10\QueueLogic\obj\Debug\net5.0\QueueLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Week10\QueueLogic\bin\Debug\net5.0\QueueLogic.deps.json
+C:\Users\user\Desktop\Week10\QueueLogic\bin\Debug\net5.0\QueueLogic.dll
+C:\Users\user\Desktop\Week10\QueueLogic\bin\Debug\net5.0\ref\QueueLogic.dll
+C:\Users\user\Desktop\Week10\QueueLogic\bin\Debug\net5.0\QueueLogic.pdb
+C:\Users\user\Desktop\Week10\QueueLogic\obj\Debug\net5.0\QueueLogic.dll
+C:\Users\user\Desktop\Week10\QueueLogic\obj\Debug\net5.0\ref\QueueLogic.dll
+C:\Users\user\Desktop\Week10\QueueLogic\obj\Debug\net5.0\QueueLogic.pdb

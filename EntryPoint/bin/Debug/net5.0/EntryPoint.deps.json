@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EntryPoint/1.0.0": {
+        "dependencies": {
+          "Myqueue": "1.0.0",
+          "QueueLogic": "1.0.0",
+          "UserFileManagement": "1.0.0",
+          "Users": "1.0.0"
+        },
+        "runtime": {
+          "EntryPoint.dll": {}
+        }
+      },
+      "Myqueue/1.0.0": {
+        "runtime": {
+          "Myqueue.dll": {}
+        }
+      },
+      "QueueLogic/1.0.0": {
+        "runtime": {
+          "QueueLogic.dll": {}
+        }
+      },
+      "UserFileManagement/1.0.0": {
+        "runtime": {
+          "UserFileManagement.dll": {}
+        }
+      },
+      "Users/1.0.0": {
+        "runtime": {
+          "Users.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntryPoint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Myqueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QueueLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserFileManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Users/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

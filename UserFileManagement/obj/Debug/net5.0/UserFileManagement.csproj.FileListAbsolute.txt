@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Week10\UserFileManagement\obj\Debug\net5.0\UserFileManagement.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Week10\UserFileManagement\obj\Debug\net5.0\UserFileManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Week10\UserFileManagement\obj\Debug\net5.0\UserFileManagement.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Week10\UserFileManagement\obj\Debug\net5.0\UserFileManagement.AssemblyInfo.cs
+C:\Users\user\Desktop\Week10\UserFileManagement\obj\Debug\net5.0\UserFileManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Week10\UserFileManagement\bin\Debug\net5.0\UserFileManagement.deps.json
+C:\Users\user\Desktop\Week10\UserFileManagement\bin\Debug\net5.0\UserFileManagement.dll
+C:\Users\user\Desktop\Week10\UserFileManagement\bin\Debug\net5.0\ref\UserFileManagement.dll
+C:\Users\user\Desktop\Week10\UserFileManagement\bin\Debug\net5.0\UserFileManagement.pdb
+C:\Users\user\Desktop\Week10\UserFileManagement\obj\Debug\net5.0\UserFileManagement.dll
+C:\Users\user\Desktop\Week10\UserFileManagement\obj\Debug\net5.0\ref\UserFileManagement.dll
+C:\Users\user\Desktop\Week10\UserFileManagement\obj\Debug\net5.0\UserFileManagement.pdb
